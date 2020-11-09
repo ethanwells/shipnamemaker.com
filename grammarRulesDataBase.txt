@@ -1,0 +1,6 @@
+Invalid consonant pair following: Vr
+
+Invalid consonant pair following: ro
+
+Invalid consonant pair following: Ve
+
